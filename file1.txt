@@ -1,3 +1,4 @@
 Hello 
 2nd line
+Conflict
 I am the 2nd developer
